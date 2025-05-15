@@ -16,8 +16,4 @@ Un chat modern, **real-time**, construit cu stack-ul [MERN](https://www.mongodb.
 
 ## Setup rapid
 
-### 1. Clonează proiectul
 
-```bash
-git clone https://github.com/username/mern-chat-app.git
-cd mern-chat-app
